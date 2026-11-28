@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-29",
+  "slot": "evening",
+  "batch": "2026-11-29-evening.json",
+  "slug": "astro-true-solar-time",
+  "column": "占星 · 答客問",
+  "topic": "星座",
+  "parts": [
+    "真太陽時是什麼？為什麼有些排盤會用它？\n它是把鐘錶時間，換算成太陽實際走到當地天空位置的時間；但不同命理與占星排盤法，採用方式並不完全相同。\n\n一、標準時間：先看鐘錶記錄\n出生證明上的時間通常是當地標準時間，還要搭配出生地與當時是否有日光節約時間。\n\n二、經度差：同一時區也不等於同一刻\n時區用一條標準經線統一時間，出生地和標準經線有距離，就會出現地方時間的差異。\n\n三、太陽位置：再看實際天象\n真太陽時還會納入太陽視運動每天快慢不同造成的差距，所以不是固定加減同一個數字。\n\n四、交界時刻：要比對前後結果\n如果修正後剛好跨過上升星座或宮位邊界，兩種時間都值得排出來比較，不宜只用一個結果就下結論。\n\n所以，真太陽時不是「用了才準」的通關密語，而是一種時間校正方式；不同系統有不同規則，傳統上也存在流派差異。\n\n你比較在意的是出生時間差幾分鐘，還是因此換了整個上升星座？",
+    "在占星排盤裡，出生時間會影響上升星座與宮位；真太陽時則是把標準時間依出生地與太陽視運動做校正。這套校正是否採用、怎麼採用，必須看排盤系統的規則。\n\n你的占星上升星座，在指南星的命盤裡就看得到：\nhttps://guidingstar.ai/calculate/astro?utm_source=threads&utm_medium=social&utm_campaign=astro-true-solar-time"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/ytchen175/guidingstar-threads-media/77a6eecc34b6bb37f7edc3d2821876f1be36cc4a/threads/2026-11-29/evening/astro-true-solar-time.png",
+  "videoUrl": null
+}
